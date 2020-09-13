@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Max4 {
 	public static void main(String[] args) {
 		Scanner Std = new Scanner(System.in);
-		System.out.print("Input a Number !  "); int a = Std.nextInt();
+		System.out.print("Input a Number ! "); int a = Std.nextInt();
 		System.out.print("Input b Number ! "); int b = Std.nextInt();
 		System.out.print("Input c Number ! "); int c = Std.nextInt();
 		System.out.print("Input d Number ! "); int d = Std.nextInt();
